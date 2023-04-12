@@ -30,5 +30,6 @@
         "prettier-formatter": "^1.1.0"
     },
     "type": "module",
-    "prettier": "prettier-formatter"
+    "prettier": "prettier-formatter",
+    "reveal": true
 }
