@@ -1,0 +1,93 @@
+{
+    "animals": {
+        "log": "🐘",
+        "warn": "🦁",
+        "info": "🐬",
+        "success": "🦅",
+        "error": "🐍"
+    },
+    "circles": {
+        "log": "🟡",
+        "warn": "🟠",
+        "info": "🔵",
+        "success": "🟢",
+        "error": "🔴"
+    },
+    "colors": {
+        "log": "LOG",
+        "warn": "WARNING",
+        "info": "INFO",
+        "success": "SUCCESS",
+        "error": "ERROR"
+    },
+    "emojis": {
+        "log": "🚧",
+        "warn": "⚠️",
+        "info": "ℹ️",
+        "success": "✅",
+        "error": "❌"
+    },
+    "flowers": {
+        "log": "🌸",
+        "warn": "🌻",
+        "info": "🌼",
+        "success": "🌺",
+        "error": "🥀"
+    },
+    "hands": {
+        "log": "👉",
+        "warn": "🤞",
+        "info": "👌",
+        "success": "👍",
+        "error": "👊"
+    },
+    "hearts": {
+        "log": "💛",
+        "warn": "🧡",
+        "info": "💙",
+        "success": "💚",
+        "error": "❤️"
+    },
+    "labels": {
+        "log": "LOG",
+        "warn": "WARNING",
+        "info": "INFO",
+        "success": "SUCCESS",
+        "error": "ERROR"
+    },
+    "smileys": {
+        "log": "🙃",
+        "warn": "😒",
+        "info": "🙂",
+        "success": "😍",
+        "error": "😡"
+    },
+    "squares": {
+        "log": "🟨",
+        "warn": "🟧",
+        "info": "🟦",
+        "success": "🟩",
+        "error": "🟥"
+    },
+    "symbols": {
+        "log": "❕",
+        "warn": "❗",
+        "info": "❔",
+        "success": "✅",
+        "error": "⭕"
+    },
+    "unicode": {
+        "log": "|",
+        "warn": "⚠",
+        "info": "ℹ",
+        "success": "✓",
+        "error": "˟"
+    },
+    "weather": {
+        "log": "🌤️",
+        "warn": "⛈️",
+        "info": "☀️",
+        "success": "🌈",
+        "error": "🌪️"
+    }
+}

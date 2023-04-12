@@ -1,0 +1,34 @@
+{
+    "name": "log-enhancer",
+    "version": "1.0.0",
+    "description": "Extends and enhances console.log with various symbols and themes",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tech-mojo/log-enhancer.git"
+    },
+    "keywords": [
+        "cli",
+        "cmd",
+        "log",
+        "logging",
+        "console.log",
+        "console",
+        "terminal",
+        "theme"
+    ],
+    "author": "TechMojo Solutions",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tech-mojo/log-enhancer/issues"
+    },
+    "homepage": "https://github.com/tech-mojo/log-enhancer#readme",
+    "dependencies": {
+        "chalk": "^5.2.0"
+    },
+    "devDependencies": {
+        "prettier-formatter": "^1.1.0"
+    },
+    "type": "module",
+    "prettier": "prettier-formatter"
+}

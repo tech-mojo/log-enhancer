@@ -1,0 +1,275 @@
+{
+    "arctic": {
+        "log": "#B0C4DE",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#98FB98",
+        "error": "#FF0000"
+    },
+    "aurora": {
+        "log": "#FFA07A",
+        "warn": "#FFD700",
+        "info": "#40E0D0",
+        "success": "#00FA9A",
+        "error": "#EE82EE"
+    },
+    "autumn": {
+        "log": "#F0E68C",
+        "warn": "#FFA07A",
+        "info": "#87CEFA",
+        "success": "#8FBC8F",
+        "error": "#DC143C"
+    },
+    "beach": {
+        "log": "#FFDAB9",
+        "warn": "#F4A460",
+        "info": "#ADD8E6",
+        "success": "#90EE90",
+        "error": "#CD5C5C"
+    },
+    "burgundy": {
+        "log": "#800000",
+        "warn": "#8B0000",
+        "info": "#800080",
+        "success": "#556B2F",
+        "error": "#DC143C"
+    },
+    "celestial": {
+        "log": "#87CEEB",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#FFD700",
+        "error": "#FF0000"
+    },
+    "cinnamon": {
+        "log": "#D2691E",
+        "warn": "#FFDAB9",
+        "info": "#4682B4",
+        "success": "#32CD32",
+        "error": "#FF6347"
+    },
+    "citrus": {
+        "log": "#FFA500",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#32CD32",
+        "error": "#FF0000"
+    },
+    "coral": {
+        "log": "#FF7F50",
+        "warn": "#FF6347",
+        "info": "#FF4500",
+        "success": "#FFD700",
+        "error": "#FF0000"
+    },
+    "cosmic": {
+        "log": "#6A5ACD",
+        "warn": "#FFD700",
+        "info": "#1E90FF",
+        "success": "#00FF7F",
+        "error": "#FF1493"
+    },
+    "default": {
+        "log": "#2f4f4f",
+        "warn": "#ff9900",
+        "info": "#0099cc",
+        "success": "#00cc66",
+        "error": "#cc0000"
+    },
+    "desert": {
+        "log": "#FFE4C4",
+        "warn": "#FFA07A",
+        "info": "#00BFFF",
+        "success": "#32CD32",
+        "error": "#FF0000"
+    },
+    "ember": {
+        "log": "#FF4500",
+        "warn": "#FFD700",
+        "info": "#FFA07A",
+        "success": "#FF8C00",
+        "error": "#B22222"
+    },
+    "enchanted": {
+        "log": "#BA55D3",
+        "warn": "#FFD700",
+        "info": "#87CEFA",
+        "success": "#00FA9A",
+        "error": "#CD5C5C"
+    },
+    "galaxy": {
+        "log": "#FFFFFF",
+        "warn": "#F0E68C",
+        "info": "#87CEFA",
+        "success": "#00FF7F",
+        "error": "#FF1493"
+    },
+    "inferno": {
+        "log": "#FF4500",
+        "warn": "#FFD700",
+        "info": "#DC143C",
+        "success": "#FF8C00",
+        "error": "#B22222"
+    },
+    "ivory": {
+        "log": "#FFFFF0",
+        "warn": "#FAEBD7",
+        "info": "#F5F5DC",
+        "success": "#F0FFF0",
+        "error": "#FFE4E1"
+    },
+    "jungle": {
+        "log": "#FFFACD",
+        "warn": "#FFD700",
+        "info": "#00CED1",
+        "success": "#32CD32",
+        "error": "#FF4500"
+    },
+    "lavender": {
+        "log": "#E6E6FA",
+        "warn": "#FFD700",
+        "info": "#9370DB",
+        "success": "#32CD32",
+        "error": "#CD5C5C"
+    },
+    "midnight": {
+        "log": "#191970",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#32CD32",
+        "error": "#8B0000"
+    },
+    "navy": {
+        "log": "#000080",
+        "warn": "#191970",
+        "info": "#ADD8E6",
+        "success": "#00FFFF",
+        "error": "#F08080"
+    },
+    "neon": {
+        "log": "#FF00FF",
+        "warn": "#FFFF00",
+        "info": "#00FFFF",
+        "success": "#00FF00",
+        "error": "#FF0000"
+    },
+    "ocean": {
+        "log": "#B0C4DE",
+        "warn": "#FFD700",
+        "info": "#ADD8E6",
+        "success": "#00FA9A",
+        "error": "#DC143C"
+    },
+    "oceanic": {
+        "log": "#ADD8E6",
+        "warn": "#FFA07A",
+        "info": "#00BFFF",
+        "success": "#32CD32",
+        "error": "#8B0000"
+    },
+    "orchid": {
+        "log": "#DA70D6",
+        "warn": "#FFA07A",
+        "info": "#4169E1",
+        "success": "#ADFF2F",
+        "error": "#FF4500"
+    },
+    "rainbow": {
+        "log": "#FFD700",
+        "warn": "#FFA07A",
+        "info": "#00BFFF",
+        "success": "#32CD32",
+        "error": "#800080"
+    },
+    "rose": {
+        "log": "#FF69B4",
+        "warn": "#F08080",
+        "info": "#87CEEB",
+        "success": "#20B2AA",
+        "error": "#CD5C5C"
+    },
+    "ruby": {
+        "log": "#D02090",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#32CD32",
+        "error": "#8B0000"
+    },
+    "sage": {
+        "log": "#BC8F8F",
+        "warn": "#D8BFD8",
+        "info": "#7FFFD4",
+        "success": "#98FB98",
+        "error": "#FF7F50"
+    },
+    "sandstorm": {
+        "log": "#D2B48C",
+        "warn": "#FFDEAD",
+        "info": "#B0C4DE",
+        "success": "#98FB98",
+        "error": "#FF6347"
+    },
+    "silver": {
+        "log": "#C0C0C0",
+        "warn": "#D3D3D3",
+        "info": "#808080",
+        "success": "#BEBEBE",
+        "error": "#A9A9A9"
+    },
+    "skyline": {
+        "log": "#87CEFA",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#ADFF2F",
+        "error": "#FF0000"
+    },
+    "subtle": {
+        "log": "#ff8c00cc",
+        "warn": "#ffd700cc",
+        "info": "#00bfffcc",
+        "success": "#008000cc",
+        "error": "#ff4500cc"
+    },
+    "sunburst": {
+        "log": "#FFC107",
+        "warn": "#FFA07A",
+        "info": "#FF4500",
+        "success": "#FFD700",
+        "error": "#FF0000"
+    },
+    "sunset": {
+        "log": "#FFA07A",
+        "warn": "#FFD700",
+        "info": "#00BFFF",
+        "success": "#FFC0CB",
+        "error": "#DC143C"
+    },
+    "teal": {
+        "log": "#008080",
+        "warn": "#008B8B",
+        "info": "#00FFFF",
+        "success": "#00CED1",
+        "error": "#00FA9A"
+    },
+    "twilight": {
+        "log": "#6B8E23",
+        "warn": "#FFD700",
+        "info": "#4B0082",
+        "success": "#00FF7F",
+        "error": "#9400D3"
+    },
+    "volcano": {
+        "log": "#FFA07A",
+        "warn": "#FFD700",
+        "info": "#1E90FF",
+        "success": "#FF6347",
+        "error": "#8B0000"
+    },
+    "winter": {
+        "log": "#F0F8FF",
+        "warn": "#FFD700",
+        "info": "#B0E0E6",
+        "success": "#00FF7F",
+        "error": "#FF6347"
+    }
+}
