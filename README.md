@@ -1,3 +1,10 @@
+[![log-enhancer](https://github.com/tech-mojo/log-enhancer/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/tech-mojo/log-enhancer/actions/workflows/npm-publish.yml)
+![NPM](https://img.shields.io/npm/l/log-enhancer)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/log-enhancer)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tech-mojo/log-enhancer)
+![GitHub repo size](https://img.shields.io/github/repo-size/tech-mojo/log-enhancer)
+![npm](https://img.shields.io/npm/dw/log-enhancer)
+
 # log-enhancer
 
 log-enhancer is a JavaScript class that provides a simple, customizable logging interface for your Node.js applications. It allows you to specify the theme and style of your logs, and supports multiple styles including colored text, emojis, labels, and more.
